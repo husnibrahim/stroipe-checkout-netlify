@@ -2,7 +2,7 @@
     {
       "sku": "DEPO001",
       "name": "First Deposit",
-      "description": "For domain & hosting purchase.",
+      "description": "For web related purchase and development.",
       "image": "https://image.freepik.com/free-vector/add-cart-concept-illustration_114360-1435.jpg",
       "amount":25000,
       "currency": "MYR"
@@ -12,7 +12,7 @@
     {
       "sku": "DEPO004",
       "name": "Second Deposit",
-      "description": "Total balance need to pay before project delivery.",
+      "description": "Total balance.",
       "image": "https://image.freepik.com/free-vector/people-using-mobile-bank-remittance-money_74855-6617.jpg",
       "amount": 75000,
       "currency": "MYR"
